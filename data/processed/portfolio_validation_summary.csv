@@ -1,0 +1,11 @@
+Validation_Test,Result
+Minimum Variance Weight Sum,True
+Minimum Variance Constraints,True
+Maximum Sharpe Weight Sum,True
+Maximum Sharpe Constraints,True
+Minimum Variance Optimisation Success,True
+Maximum Sharpe Optimisation Success,True
+Maximum Sharpe Independent Calculation,True
+Maximum Sharpe Multi-Start Test,Consistent across starting portfolios
+Optimised Sharpe vs Best Random,True
+Optimised Volatility vs Lowest Random,True

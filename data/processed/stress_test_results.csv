@@ -1,0 +1,10 @@
+Scenario,Portfolio,Stress Return
+Moderate Stress (-10%),Equal Weight,-0.10000000000000002
+Moderate Stress (-10%),Minimum Variance,-0.10000000000000002
+Moderate Stress (-10%),Maximum Sharpe,-0.1
+Severe Stress (-20%),Equal Weight,-0.20000000000000004
+Severe Stress (-20%),Minimum Variance,-0.20000000000000004
+Severe Stress (-20%),Maximum Sharpe,-0.2
+Extreme Stress (-30%),Equal Weight,-0.3
+Extreme Stress (-30%),Minimum Variance,-0.3
+Extreme Stress (-30%),Maximum Sharpe,-0.29999999999999993
